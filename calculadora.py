@@ -1,6 +1,6 @@
 import sys
 
-from main_window import MainWindow
+from mainwindow import MainWindow
 from PySide6.QtWidgets import QApplication, QLabel
 
 if __name__ == '__main__':
